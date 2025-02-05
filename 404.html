@@ -1,0 +1,6 @@
+<script>
+    // Redirect SPA routes back to index.html
+    var target = window.location.pathname.split('/').slice(1).join('/') || "/";
+    window.location.href = "/#" + target;
+  </script>
+  Redirect2

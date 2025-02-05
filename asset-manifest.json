@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20a11221.css",
+    "main.js": "/static/js/main.528b6dc4.js",
+    "static/media/logo.svg": "/static/media/logo.f871bd4e3bd12c5b12d13a134fd8828a.svg",
+    "static/media/organization-icon.svg": "/static/media/organization-icon.66c077883b814357ed719cc3c4ad2373.svg",
+    "static/media/user-icon.svg": "/static/media/user-icon.26aa3e9325358e83c8b3418ac6e43053.svg",
+    "static/media/coverage.svg": "/static/media/coverage.25de7ee2c27f66d09ceafbfedd924d56.svg",
+    "static/media/scan.svg": "/static/media/scan.2c0586a6c967978840398ff7437238fb.svg",
+    "index.html": "/index.html",
+    "static/media/Key.svg": "/static/media/Key.2d63926c627b6f457c2a19237b1d8169.svg",
+    "static/media/edit-icon.svg": "/static/media/edit-icon.9af6474b83053a239d7cc5fc85310edb.svg",
+    "static/media/edit.svg": "/static/media/edit.b3a8aef90282bde095242bc96d372ffc.svg",
+    "static/media/risk.svg": "/static/media/risk.b129cd1b6b7bdf06fc1315fed88df22e.svg",
+    "static/media/risk-icon-light.svg": "/static/media/risk-icon-light.38b8754b23c43031c4fe14fc8f70cb4a.svg",
+    "static/media/delete.svg": "/static/media/delete.5ad79658c29f268db260951961f9e71f.svg",
+    "static/media/overview.svg": "/static/media/overview.b3cc9034f6ad61d0d3237a92b1e1d685.svg",
+    "static/media/home-icon.svg": "/static/media/home-icon.f96a5169ede0572bef17fa6e6c3b3e6c.svg",
+    "static/media/reposiitories-icon.svg": "/static/media/reposiitories-icon.f96a5169ede0572bef17fa6e6c3b3e6c.svg",
+    "static/media/close-icon.svg": "/static/media/close-icon.e7d2ffb19d58e848fd26ce77a7d377a1.svg",
+    "main.20a11221.css.map": "/static/css/main.20a11221.css.map",
+    "main.528b6dc4.js.map": "/static/js/main.528b6dc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a11221.css",
+    "static/js/main.528b6dc4.js"
+  ]
+}

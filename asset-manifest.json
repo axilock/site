@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.826d2396.css",
-    "main.js": "/static/js/main.67e99500.js",
+    "main.css": "/static/css/main.3b8922aa.css",
+    "main.js": "/static/js/main.72d23c86.js",
     "static/media/logo.svg": "/static/media/logo.f871bd4e3bd12c5b12d13a134fd8828a.svg",
     "static/media/organization-icon.svg": "/static/media/organization-icon.66c077883b814357ed719cc3c4ad2373.svg",
     "static/media/user-icon.svg": "/static/media/user-icon.26aa3e9325358e83c8b3418ac6e43053.svg",
@@ -18,11 +18,11 @@
     "static/media/home-icon.svg": "/static/media/home-icon.f96a5169ede0572bef17fa6e6c3b3e6c.svg",
     "static/media/reposiitories-icon.svg": "/static/media/reposiitories-icon.f96a5169ede0572bef17fa6e6c3b3e6c.svg",
     "static/media/close-icon.svg": "/static/media/close-icon.e7d2ffb19d58e848fd26ce77a7d377a1.svg",
-    "main.826d2396.css.map": "/static/css/main.826d2396.css.map",
-    "main.67e99500.js.map": "/static/js/main.67e99500.js.map"
+    "main.3b8922aa.css.map": "/static/css/main.3b8922aa.css.map",
+    "main.72d23c86.js.map": "/static/js/main.72d23c86.js.map"
   },
   "entrypoints": [
-    "static/css/main.826d2396.css",
-    "static/js/main.67e99500.js"
+    "static/css/main.3b8922aa.css",
+    "static/js/main.72d23c86.js"
   ]
 }

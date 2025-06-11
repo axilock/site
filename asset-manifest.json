@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e01bb715.css",
-    "main.js": "/static/js/main.4c8b9d17.js",
+    "main.js": "/static/js/main.27382f97.js",
     "static/media/logo-gitlab.svg": "/static/media/logo-gitlab.e3abb0c352d1dbc349d25de3570bb6bd.svg",
     "static/media/logo.svg": "/static/media/logo.543417de00998f9f56ad7e150836ced0.svg",
     "static/media/scan.svg": "/static/media/scan.2c0586a6c967978840398ff7437238fb.svg",
@@ -13,10 +13,10 @@
     "static/media/overview.svg": "/static/media/overview.b3cc9034f6ad61d0d3237a92b1e1d685.svg",
     "static/media/close-icon.svg": "/static/media/close-icon.e7d2ffb19d58e848fd26ce77a7d377a1.svg",
     "main.e01bb715.css.map": "/static/css/main.e01bb715.css.map",
-    "main.4c8b9d17.js.map": "/static/js/main.4c8b9d17.js.map"
+    "main.27382f97.js.map": "/static/js/main.27382f97.js.map"
   },
   "entrypoints": [
     "static/css/main.e01bb715.css",
-    "static/js/main.4c8b9d17.js"
+    "static/js/main.27382f97.js"
   ]
 }
